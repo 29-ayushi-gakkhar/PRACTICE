@@ -1,0 +1,16 @@
+// defination:-
+
+Asynchronous function - Asynchronous function are time taken functions which function at a particular interval of time,
+                        without blocking functioning of other functions. 
+                        Asynchronous function can be identified by notifying the following keywords written in code or program :-
+                        async - await and interval 
+
+
+
+API:-
+
+GET :- gives data from database to backend. 
+POST:- add data from database to backend. 
+PUT :- edit the data. 
+DELETE :- delete the data. 
+PATCH :- edit only specified data od database. 
