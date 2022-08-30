@@ -1,0 +1,7 @@
+ls: list file and folders present
+cd : change directory
+cd.. : go to previous directory
+clear : clear terminal 
+
+git add : stage changes
+git status : check status of file(commit ready or not )  
