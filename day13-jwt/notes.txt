@@ -1,0 +1,8 @@
+JWT - JSON WEB TOKEN
+
+jwt has 3 parts:-
+
+header - algorithem and type of token  
+payload- data (encode)
+verified signature - secret (application store) + algorithem keywords (base64)
+ 
